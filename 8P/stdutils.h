@@ -2,6 +2,7 @@
  * stdutils.h
  * Se7S_92
  * Last modification 8-24-2019
+ * for more libraries for AVR Microcontrollers visit https://github.com/ahussein1992/AVR-Libraries
  */ 
 
 #ifndef F_CPU
