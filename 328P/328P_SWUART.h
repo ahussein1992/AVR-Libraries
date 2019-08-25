@@ -1,4 +1,5 @@
 ﻿/*
+ * software serial library for atmega328 
  * SWUART.h
  * Atmega_328
  * Se7S_92
