@@ -4,7 +4,7 @@
  * Atmega_328
  * Se7S_92
  * Last modification 8-24-2019
- * for more libraries for Atmega328 visit https://github.com/ahussein1992/AVR-Libraries
+ * for more libraries for AVR Microcontrollers visit https://github.com/ahussein1992/AVR-Libraries
  */ 
 
 #include "stdutils.h"
