@@ -1,6 +1,7 @@
 /*
+ * Use I2C_RTC.h library 
  * RTC_DS1307.h
- * Atmega8
+ * Atmega328
  * Se7S_92
  * Last modification 8-24-2019
  */ 
