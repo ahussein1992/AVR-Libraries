@@ -4,7 +4,8 @@
  /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  * use this library to calculate praying times at your location 
  * 
- * you have to use Set_New_Location(Value) at the beginning to set your location data
+ * you have to use Set_New_Location(Value) at the beginning to set your location data default is Cairo, Egypt 
+	feel free to edit this function with your local location data but don't remove old data 
  *
  * use calcPrayerTimes1(Year, Month, Day) to calculate new times
  * 
@@ -16,6 +17,7 @@
  * Atmega8
  * Se7S_92
  * Last modification 8-24-2019
+ * for more libraries for AVR Microcontrollers visit https://github.com/ahussein1992/AVR-Libraries
  */ 
 
 #include "stdutils.h"
